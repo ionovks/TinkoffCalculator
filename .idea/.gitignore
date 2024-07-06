@@ -1,0 +1,74 @@
+# Default ignored files
+# Xcode
+DerivedData/
+.idea/
+*.xcworkspace
+*.xcuserstate
+!default.xcworkspace/contents.xcworkspacedata
+!default.xcworkspace/contents.xcworkspacedata.*
+!default.xcworkspace/xcuserdata/*
+*.xcuserdatad
+*.xccheckout
+*.xcscmblueprint
+*.xcscmblueprint.*
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Accio dependency manager
+Dependencies/
+.accio/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Code Signing
+*.cer
+*.mobileprovision
+*.p12
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftPM
+.build/
+
+# Build artifacts
+.build/
+.build-linux/
+.build-osx/
+.build-win/
+.build-* /
+
+
+# User-specific files
+*.swm
+*.dat
+*.db
+*.log
+*.orig
+*.pac
+*.pid
+*.seed
+*.backup
+*.history
+*.state
+*.workspace
+
